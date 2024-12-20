@@ -18,7 +18,7 @@
 2. A linguagem usada deve ser acessível ao público leigo, mas com informações embasadas.
 3. As transições entre os tópicos devem ser naturais e manter o fluxo da conversa.
 4. O tom deve ser equilibrado: sério ao abordar temas complexos e leve para facilitar a compreensão.
-5. O tempo estimado do podcast deve ser de 45 minutos a 1 hora.
+5. O tempo estimado do podcast deve ser de 15 minutos.
 
 ---
 
